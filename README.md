@@ -1,6 +1,6 @@
 Ce dépôt contient le code de notre projet de TX sur l'apprentissage par renforcement.
 
-![laby](images/laby.png)![lave](images/lave.png)
+![laby](images/laby.gif)![lave](images/lave.gif)
 
 Auteurs :
 - [Theo D](https://github.com/theodubus/)
